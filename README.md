@@ -41,6 +41,7 @@ chmod +x nombre_script.sh
 | compartir.sh      |   Comapartir una carpeta en red local de manera rápida |
 | apagar.sh         |   Apagar el monitor para ahorrar batería               |
 | llave.sh          |   Actualizar las llaves publicas de manera fácil.      |
+| Blkdr.sh          |   Obtener informacion de nuestro sistema.              |
 
 
 
