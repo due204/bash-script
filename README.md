@@ -40,6 +40,8 @@ chmod +x nombre_script.sh
 | set_volumen2.sh   |   Configurar volumen de manera automatica              |
 | compartir.sh      |   Comapartir una carpeta en red local de manera rápida |
 | apagar.sh         |   Apagar el monitor para ahorrar batería               |
+| llave.sh          |   Actualizar las llaves publicas de manera fácil.      |
+
 
 
 *(Actualizare esta tabla a medida que agregue scripts)*
